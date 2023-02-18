@@ -1,16 +1,28 @@
-.main
-{
-    width: 95%;
-    background-color: rgba(128, 128, 128, 0.2);
-    text-align: center;
+.main {
+  width: 95%;
+  background-color: rgba(128, 128, 128, 0.2);
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 2rem;
 }
 
-.main title
-{
-    font-size: 75px;
+.main__title {
+  font-size: 2rem;
+  padding-top: 2rem;
+  color: rgb(0, 59, 0);
 }
 
-.main img
-{
-    width: 50%;
+.main__img {
+  max-width: 500px;
+  width: 45%;
+  padding-bottom: 0.8rem;
+  border-radius: 0.5rem;
+}
+
+.main__img--holder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 1.5rem;
 }

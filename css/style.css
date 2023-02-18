@@ -1,0 +1,16 @@
+.main
+{
+    width: 95%;
+    background-color: rgba(128, 128, 128, 0.2);
+    text-align: center;
+}
+
+.main title
+{
+    font-size: 75px;
+}
+
+.main img
+{
+    width: 50%;
+}

@@ -26,3 +26,22 @@
   flex-direction: column;
   padding-bottom: 1.5rem;
 }
+
+.section-1
+{
+  margin: 0 auto;
+  width: 95%;
+  padding: 1rem;
+  background-color: rgba(0, 59, 0, 0.4);
+  text-align: center;
+}
+
+.section-1__subtitles
+{
+  color: rgba(0, 59, 0);
+}
+
+.section-1__text
+{
+  color: white;
+}
